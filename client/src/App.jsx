@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Todo from "./todo";
+import Todo from "./Todo";
 
 export default function App() {
   const [todos, setTodos] = useState([]);
